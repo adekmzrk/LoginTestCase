@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="LoginTestCase" time="1.364" errors="0" skipped="0">
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="LoginTestCase" time="4.114" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="19.0.2+7-44"/>
@@ -20,8 +20,7 @@
     <property name="java.runtime.version" value="19.0.2+7-44"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\Pluto_8\AppData\Local\Temp\"/>
-    <property name="line.separator" value="
-"/>
+    <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="stderr.encoding" value="Cp1252"/>
@@ -62,11 +61,11 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="LoginTestCase" name="testCase1" time="0.436"/>
-  <testcase classname="LoginTestCase" name="testCase2" time="0.181"/>
-  <testcase classname="LoginTestCase" name="testCase3" time="0.132"/>
-  <testcase classname="LoginTestCase" name="testCase4" time="0.121"/>
-  <testcase classname="LoginTestCase" name="testCase5" time="0.173"/>
-  <testcase classname="LoginTestCase" name="testCase6" time="0.12"/>
-  <testcase classname="LoginTestCase" name="testCase7" time="0.201"/>
+  <testcase name="testCase1" classname="LoginTestCase" time="0.455"/>
+  <testcase name="testCase2" classname="LoginTestCase" time="0.181"/>
+  <testcase name="testCase3" classname="LoginTestCase" time="0.134"/>
+  <testcase name="testCase4" classname="LoginTestCase" time="0.121"/>
+  <testcase name="testCase5" classname="LoginTestCase" time="0.175"/>
+  <testcase name="testCase6" classname="LoginTestCase" time="0.123"/>
+  <testcase name="testCase7" classname="LoginTestCase" time="0.186"/>
 </testsuite>

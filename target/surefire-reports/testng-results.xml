@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-14T10:30:24 ICT" name="LoginTestCase" finished-at="2023-02-14T10:30:28 ICT" duration-ms="3691">
+  <suite started-at="2023-02-14T10:36:03 ICT" name="Surefire suite" finished-at="2023-02-14T10:36:07 ICT" duration-ms="3717">
     <groups>
     </groups>
-    <test started-at="2023-02-14T10:30:24 ICT" name="Command line test" finished-at="2023-02-14T10:30:28 ICT" duration-ms="3691">
+    <test started-at="2023-02-14T10:36:03 ICT" name="Surefire test" finished-at="2023-02-14T10:36:07 ICT" duration-ms="3717">
       <class name="LoginTestCase">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:24 ICT" name="setUp" finished-at="2023-02-14T10:30:26 ICT" duration-ms="2186" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:03 ICT" name="setUp" finished-at="2023-02-14T10:36:05 ICT" duration-ms="2228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCase1()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:26 ICT" name="testCase1" finished-at="2023-02-14T10:30:27 ICT" duration-ms="435" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:05 ICT" name="testCase1" finished-at="2023-02-14T10:36:06 ICT" duration-ms="454" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method signature="testCase2()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:27 ICT" name="testCase2" finished-at="2023-02-14T10:30:27 ICT" duration-ms="182" status="PASS">
+        <test-method signature="testCase2()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:06 ICT" name="testCase2" finished-at="2023-02-14T10:36:06 ICT" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase2 -->
-        <test-method signature="testCase3()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:27 ICT" name="testCase3" finished-at="2023-02-14T10:30:27 ICT" duration-ms="132" status="PASS">
+        <test-method signature="testCase3()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:06 ICT" name="testCase3" finished-at="2023-02-14T10:36:06 ICT" duration-ms="133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase3 -->
-        <test-method signature="testCase4()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:27 ICT" name="testCase4" finished-at="2023-02-14T10:30:27 ICT" duration-ms="122" status="PASS">
+        <test-method signature="testCase4()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:06 ICT" name="testCase4" finished-at="2023-02-14T10:36:06 ICT" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase4 -->
-        <test-method signature="testCase5()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:27 ICT" name="testCase5" finished-at="2023-02-14T10:30:27 ICT" duration-ms="173" status="PASS">
+        <test-method signature="testCase5()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:06 ICT" name="testCase5" finished-at="2023-02-14T10:36:06 ICT" duration-ms="174" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase5 -->
-        <test-method signature="testCase6()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:27 ICT" name="testCase6" finished-at="2023-02-14T10:30:28 ICT" duration-ms="120" status="PASS">
+        <test-method signature="testCase6()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:06 ICT" name="testCase6" finished-at="2023-02-14T10:36:07 ICT" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase6 -->
-        <test-method signature="testCase7()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:28 ICT" name="testCase7" finished-at="2023-02-14T10:30:28 ICT" duration-ms="202" status="PASS">
+        <test-method signature="testCase7()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:07 ICT" name="testCase7" finished-at="2023-02-14T10:36:07 ICT" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase7 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:30:28 ICT" name="tearDown" finished-at="2023-02-14T10:30:28 ICT" duration-ms="114" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestCase@226a82c4]" started-at="2023-02-14T10:36:07 ICT" name="tearDown" finished-at="2023-02-14T10:36:07 ICT" duration-ms="87" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- LoginTestCase -->
-    </test> <!-- Command line test -->
-  </suite> <!-- LoginTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
