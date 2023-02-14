@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-14T09:53:36 ICT" name="LoginTestCase" finished-at="2023-02-14T09:53:39 ICT" duration-ms="3614">
+  <suite started-at="2023-02-14T10:15:34 ICT" name="LoginTestCase" finished-at="2023-02-14T10:15:44 ICT" duration-ms="10410">
     <groups>
     </groups>
-    <test started-at="2023-02-14T09:53:36 ICT" name="Command line test" finished-at="2023-02-14T09:53:39 ICT" duration-ms="3614">
+    <test started-at="2023-02-14T10:15:34 ICT" name="Command line test" finished-at="2023-02-14T10:15:44 ICT" duration-ms="10410">
       <class name="LoginTestCase">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:36 ICT" name="setUp" finished-at="2023-02-14T09:53:38 ICT" duration-ms="2179" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:34 ICT" name="setUp" finished-at="2023-02-14T10:15:36 ICT" duration-ms="2135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCase1()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:38 ICT" name="testCase1" finished-at="2023-02-14T09:53:38 ICT" duration-ms="413" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:36 ICT" name="testCase1" finished-at="2023-02-14T10:15:43 ICT" duration-ms="7262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
-        <test-method signature="testCase2()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:38 ICT" name="testCase2" finished-at="2023-02-14T09:53:39 ICT" duration-ms="179" status="PASS">
+        <test-method signature="testCase2()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:43 ICT" name="testCase2" finished-at="2023-02-14T10:15:43 ICT" duration-ms="173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase2 -->
-        <test-method signature="testCase3()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="testCase3" finished-at="2023-02-14T09:53:39 ICT" duration-ms="128" status="PASS">
+        <test-method signature="testCase3()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:43 ICT" name="testCase3" finished-at="2023-02-14T10:15:44 ICT" duration-ms="131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase3 -->
-        <test-method signature="testCase4()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="testCase4" finished-at="2023-02-14T09:53:39 ICT" duration-ms="120" status="PASS">
+        <test-method signature="testCase4()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:44 ICT" name="testCase4" finished-at="2023-02-14T10:15:44 ICT" duration-ms="118" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase4 -->
-        <test-method signature="testCase5()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="testCase5" finished-at="2023-02-14T09:53:39 ICT" duration-ms="169" status="PASS">
+        <test-method signature="testCase5()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:44 ICT" name="testCase5" finished-at="2023-02-14T10:15:44 ICT" duration-ms="169" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase5 -->
-        <test-method signature="testCase6()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="testCase6" finished-at="2023-02-14T09:53:39 ICT" duration-ms="117" status="PASS">
+        <test-method signature="testCase6()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:44 ICT" name="testCase6" finished-at="2023-02-14T10:15:44 ICT" duration-ms="116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase6 -->
-        <test-method signature="testCase7()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="testCase7" finished-at="2023-02-14T09:53:39 ICT" duration-ms="189" status="PASS">
+        <test-method signature="testCase7()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:44 ICT" name="testCase7" finished-at="2023-02-14T10:15:44 ICT" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase7 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T09:53:39 ICT" name="tearDown" finished-at="2023-02-14T09:53:39 ICT" duration-ms="93" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:LoginTestCase@214b199c]" started-at="2023-02-14T10:15:44 ICT" name="tearDown" finished-at="2023-02-14T10:15:44 ICT" duration-ms="94" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
