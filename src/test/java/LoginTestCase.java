@@ -37,7 +37,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase1(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("admin");
         driver.findElement(By.id("password")).sendKeys("admin123");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
@@ -48,7 +48,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase2(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("admin");
         driver.findElement(By.id("password")).sendKeys("admin1234");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
@@ -59,7 +59,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase3(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("password")).sendKeys("admin1234");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
         String expectedTitle = "true";
@@ -69,7 +69,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase4(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("admin");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
         String expectedTitle = "true";
@@ -79,7 +79,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase5(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("adminn");
         driver.findElement(By.id("password")).sendKeys("admin12345");
         driver.findElement(By.xpath("/html/body/div/form/input[3]")).click();
@@ -90,7 +90,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase6(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("admin");
         driver.findElement(By.id("password")).sendKeys("admin1234");
         String expectedTitle = "password";
@@ -100,7 +100,7 @@ public class LoginTestCase {
     
     @Test
     public void testCase7(){
-        driver.get("./index.php");
+        driver.get("http://localhost/AUTLoginTestCase/index.php");
         driver.findElement(By.id("username")).sendKeys("admin");
         driver.findElement(By.id("password")).sendKeys("admin123");
         Actions action = new Actions(driver);
